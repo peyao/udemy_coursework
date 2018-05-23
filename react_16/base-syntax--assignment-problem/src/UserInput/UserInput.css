@@ -1,0 +1,9 @@
+.UserInput {
+  text-align: center;
+}
+.UserInput input {
+  padding: 15px;
+  font-size: 170%;
+  text-align: center;
+  margin: auto;
+}
